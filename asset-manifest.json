@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/wiki-redesign/static/css/main.fcccef6a.chunk.css",
-    "main.js": "/wiki-redesign/static/js/main.003518b7.chunk.js",
-    "main.js.map": "/wiki-redesign/static/js/main.003518b7.chunk.js.map",
-    "runtime-main.js": "/wiki-redesign/static/js/runtime-main.16174148.js",
-    "runtime-main.js.map": "/wiki-redesign/static/js/runtime-main.16174148.js.map",
-    "static/js/2.2f711235.chunk.js": "/wiki-redesign/static/js/2.2f711235.chunk.js",
-    "static/js/2.2f711235.chunk.js.map": "/wiki-redesign/static/js/2.2f711235.chunk.js.map",
-    "static/js/3.c10e695c.chunk.js": "/wiki-redesign/static/js/3.c10e695c.chunk.js",
-    "static/js/3.c10e695c.chunk.js.map": "/wiki-redesign/static/js/3.c10e695c.chunk.js.map",
+    "main.css": "/wiki-redesign/static/css/main.6b98e665.chunk.css",
+    "main.js": "/wiki-redesign/static/js/main.aedc18bd.chunk.js",
+    "main.js.map": "/wiki-redesign/static/js/main.aedc18bd.chunk.js.map",
+    "runtime-main.js": "/wiki-redesign/static/js/runtime-main.acf11250.js",
+    "runtime-main.js.map": "/wiki-redesign/static/js/runtime-main.acf11250.js.map",
+    "static/js/2.9cf67429.chunk.js": "/wiki-redesign/static/js/2.9cf67429.chunk.js",
+    "static/js/2.9cf67429.chunk.js.map": "/wiki-redesign/static/js/2.9cf67429.chunk.js.map",
+    "static/js/3.292dd217.chunk.js": "/wiki-redesign/static/js/3.292dd217.chunk.js",
+    "static/js/3.292dd217.chunk.js.map": "/wiki-redesign/static/js/3.292dd217.chunk.js.map",
     "index.html": "/wiki-redesign/index.html",
-    "static/css/main.fcccef6a.chunk.css.map": "/wiki-redesign/static/css/main.fcccef6a.chunk.css.map",
-    "static/js/2.2f711235.chunk.js.LICENSE.txt": "/wiki-redesign/static/js/2.2f711235.chunk.js.LICENSE.txt",
+    "static/css/main.6b98e665.chunk.css.map": "/wiki-redesign/static/css/main.6b98e665.chunk.css.map",
+    "static/js/2.9cf67429.chunk.js.LICENSE.txt": "/wiki-redesign/static/js/2.9cf67429.chunk.js.LICENSE.txt",
     "static/media/export_3.1ddaf918.png": "/wiki-redesign/static/media/export_3.1ddaf918.png",
     "static/media/projectSakura.2627941a.png": "/wiki-redesign/static/media/projectSakura.2627941a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.16174148.js",
-    "static/js/2.2f711235.chunk.js",
-    "static/css/main.fcccef6a.chunk.css",
-    "static/js/main.003518b7.chunk.js"
+    "static/js/runtime-main.acf11250.js",
+    "static/js/2.9cf67429.chunk.js",
+    "static/css/main.6b98e665.chunk.css",
+    "static/js/main.aedc18bd.chunk.js"
   ]
 }
