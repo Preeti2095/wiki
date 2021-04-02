@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/wiki-redesign/static/css/main.6b98e665.chunk.css",
-    "main.js": "/wiki-redesign/static/js/main.aedc18bd.chunk.js",
-    "main.js.map": "/wiki-redesign/static/js/main.aedc18bd.chunk.js.map",
-    "runtime-main.js": "/wiki-redesign/static/js/runtime-main.acf11250.js",
-    "runtime-main.js.map": "/wiki-redesign/static/js/runtime-main.acf11250.js.map",
-    "static/js/2.9cf67429.chunk.js": "/wiki-redesign/static/js/2.9cf67429.chunk.js",
-    "static/js/2.9cf67429.chunk.js.map": "/wiki-redesign/static/js/2.9cf67429.chunk.js.map",
-    "static/js/3.292dd217.chunk.js": "/wiki-redesign/static/js/3.292dd217.chunk.js",
-    "static/js/3.292dd217.chunk.js.map": "/wiki-redesign/static/js/3.292dd217.chunk.js.map",
+    "main.css": "/wiki-redesign/static/css/main.9bb9be23.chunk.css",
+    "main.js": "/wiki-redesign/static/js/main.b842a227.chunk.js",
+    "main.js.map": "/wiki-redesign/static/js/main.b842a227.chunk.js.map",
+    "runtime-main.js": "/wiki-redesign/static/js/runtime-main.2e856c39.js",
+    "runtime-main.js.map": "/wiki-redesign/static/js/runtime-main.2e856c39.js.map",
+    "static/js/2.b2d77859.chunk.js": "/wiki-redesign/static/js/2.b2d77859.chunk.js",
+    "static/js/2.b2d77859.chunk.js.map": "/wiki-redesign/static/js/2.b2d77859.chunk.js.map",
+    "static/js/3.e023942c.chunk.js": "/wiki-redesign/static/js/3.e023942c.chunk.js",
+    "static/js/3.e023942c.chunk.js.map": "/wiki-redesign/static/js/3.e023942c.chunk.js.map",
     "index.html": "/wiki-redesign/index.html",
-    "static/css/main.6b98e665.chunk.css.map": "/wiki-redesign/static/css/main.6b98e665.chunk.css.map",
-    "static/js/2.9cf67429.chunk.js.LICENSE.txt": "/wiki-redesign/static/js/2.9cf67429.chunk.js.LICENSE.txt",
-    "static/media/export_3.1ddaf918.png": "/wiki-redesign/static/media/export_3.1ddaf918.png",
+    "static/css/main.9bb9be23.chunk.css.map": "/wiki-redesign/static/css/main.9bb9be23.chunk.css.map",
+    "static/js/2.b2d77859.chunk.js.LICENSE.txt": "/wiki-redesign/static/js/2.b2d77859.chunk.js.LICENSE.txt",
+    "static/media/export_3.eae36173.png": "/wiki-redesign/static/media/export_3.eae36173.png",
+    "static/media/logo.eae36173.png": "/wiki-redesign/static/media/logo.eae36173.png",
     "static/media/projectSakura.2627941a.png": "/wiki-redesign/static/media/projectSakura.2627941a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.acf11250.js",
-    "static/js/2.9cf67429.chunk.js",
-    "static/css/main.6b98e665.chunk.css",
-    "static/js/main.aedc18bd.chunk.js"
+    "static/js/runtime-main.2e856c39.js",
+    "static/js/2.b2d77859.chunk.js",
+    "static/css/main.9bb9be23.chunk.css",
+    "static/js/main.b842a227.chunk.js"
   ]
 }
