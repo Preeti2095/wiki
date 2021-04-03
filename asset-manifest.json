@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/wiki-redesign/static/css/main.9bb9be23.chunk.css",
-    "main.js": "/wiki-redesign/static/js/main.115e0f9e.chunk.js",
-    "main.js.map": "/wiki-redesign/static/js/main.115e0f9e.chunk.js.map",
-    "runtime-main.js": "/wiki-redesign/static/js/runtime-main.2e856c39.js",
-    "runtime-main.js.map": "/wiki-redesign/static/js/runtime-main.2e856c39.js.map",
-    "static/js/2.b2d77859.chunk.js": "/wiki-redesign/static/js/2.b2d77859.chunk.js",
-    "static/js/2.b2d77859.chunk.js.map": "/wiki-redesign/static/js/2.b2d77859.chunk.js.map",
-    "static/js/3.e023942c.chunk.js": "/wiki-redesign/static/js/3.e023942c.chunk.js",
-    "static/js/3.e023942c.chunk.js.map": "/wiki-redesign/static/js/3.e023942c.chunk.js.map",
-    "index.html": "/wiki-redesign/index.html",
-    "static/css/main.9bb9be23.chunk.css.map": "/wiki-redesign/static/css/main.9bb9be23.chunk.css.map",
-    "static/js/2.b2d77859.chunk.js.LICENSE.txt": "/wiki-redesign/static/js/2.b2d77859.chunk.js.LICENSE.txt",
-    "static/media/export_3.eae36173.png": "/wiki-redesign/static/media/export_3.eae36173.png",
-    "static/media/logo.eae36173.png": "/wiki-redesign/static/media/logo.eae36173.png",
-    "static/media/projectSakura.2627941a.png": "/wiki-redesign/static/media/projectSakura.2627941a.png"
+    "main.css": "/wiki/static/css/main.9bb9be23.chunk.css",
+    "main.js": "/wiki/static/js/main.b9bd2fbd.chunk.js",
+    "main.js.map": "/wiki/static/js/main.b9bd2fbd.chunk.js.map",
+    "runtime-main.js": "/wiki/static/js/runtime-main.03883535.js",
+    "runtime-main.js.map": "/wiki/static/js/runtime-main.03883535.js.map",
+    "static/js/2.b2d77859.chunk.js": "/wiki/static/js/2.b2d77859.chunk.js",
+    "static/js/2.b2d77859.chunk.js.map": "/wiki/static/js/2.b2d77859.chunk.js.map",
+    "static/js/3.e023942c.chunk.js": "/wiki/static/js/3.e023942c.chunk.js",
+    "static/js/3.e023942c.chunk.js.map": "/wiki/static/js/3.e023942c.chunk.js.map",
+    "index.html": "/wiki/index.html",
+    "static/css/main.9bb9be23.chunk.css.map": "/wiki/static/css/main.9bb9be23.chunk.css.map",
+    "static/js/2.b2d77859.chunk.js.LICENSE.txt": "/wiki/static/js/2.b2d77859.chunk.js.LICENSE.txt",
+    "static/media/export_3.eae36173.png": "/wiki/static/media/export_3.eae36173.png",
+    "static/media/logo.eae36173.png": "/wiki/static/media/logo.eae36173.png",
+    "static/media/projectSakura.2627941a.png": "/wiki/static/media/projectSakura.2627941a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e856c39.js",
+    "static/js/runtime-main.03883535.js",
     "static/js/2.b2d77859.chunk.js",
     "static/css/main.9bb9be23.chunk.css",
-    "static/js/main.115e0f9e.chunk.js"
+    "static/js/main.b9bd2fbd.chunk.js"
   ]
 }
